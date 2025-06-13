@@ -1,4 +1,4 @@
-Discord Mass Reporter
+# Discord Mass Reporter
 
 ![Screenshot 2025-06-13 162607](https://github.com/user-attachments/assets/59cc5853-ad7e-416f-a949-8460d8f569fb)
 
